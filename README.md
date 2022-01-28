@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on open source projects
+- 🌱 I’m currently learning ASP.NET Core
+- 📫 How to reach me: rebwar.poori@gmail.com
 <!--
 **rebwar/rebwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
